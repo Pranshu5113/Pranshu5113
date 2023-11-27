@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Pranshu Singh Patel</h1>
 <h3 align="center">"Good times don't come on their own, you have to bring them" </h3>
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu5113&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu5113" /> </p>
 
