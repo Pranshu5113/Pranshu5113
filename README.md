@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **C programming**
 
-- 📫 How to reach me **pranshusingh7076@gmail.com**
+- 📫 How to reach me **pranshusingh5113@gmail.com**
 
 - ⚡ Fun fact **I 'm a Tea lover ☕**
 
